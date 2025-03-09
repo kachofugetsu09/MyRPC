@@ -1,7 +1,7 @@
-package site.hnfy258.RPCVer1.client;
+package site.hnfy258.RPCVer2.client;
 
-import site.hnfy258.RPCVer1.common.RPCRequest;
-import site.hnfy258.RPCVer1.common.RPCResponse;
+import site.hnfy258.RPCVer2.common.RPCRequest;
+import site.hnfy258.RPCVer2.common.RPCResponse;
 
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
